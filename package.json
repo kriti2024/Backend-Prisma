@@ -11,7 +11,6 @@
     "dev:node": "node --enable-source-maps --watch dist/index.js",
     "dev": "pnpm run \"/dev:/\""
   },
-    
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kriti2024/Backend-Prisma.git"
@@ -24,9 +23,6 @@
   },
   "homepage": "https://github.com/kriti2024/Backend-Prisma#readme",
   "description": "",
-  "dependencies": {
-    "express": "^5.1.0"
-  },
   "devDependencies": {
     "@types/node": "^24.3.0",
     "typescript": "^5.9.2"
